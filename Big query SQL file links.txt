@@ -1,0 +1,25 @@
+Link SQL queries which generated our files.
+Individual activity file:
+https://console.cloud.google.com/bigquery?sq=337128161179:5f69a3e0deb74e6db50031a03ce9c61e
+
+heart beat file:
+https://console.cloud.google.com/bigquery?sq=337128161179:d27af109b78c473f8ee72f6c806695f3
+
+sleep info file:
+https://console.cloud.google.com/bigquery?sq=337128161179:cdf1869780b541979f21aea8b76b4a77
+
+weight log file:
+https://console.cloud.google.com/bigquery?sq=337128161179:88827a698b3946078ebf9860f661f0d9
+
+steps info file:
+https://console.cloud.google.com/bigquery?sq=337128161179:cdf1869780b541979f21aea8b76b4a77
+
+individual activity info file:
+https://console.cloud.google.com/bigquery?sq=337128161179:53fed03c2df7421eb750f25238f0cdf1
+
+individual heart beat file:
+https://console.cloud.google.com/bigquery?sq=337128161179:d8d0042445e84c6d82a75ef68dcd89c2
+
+individual weight log info file:
+https://console.cloud.google.com/bigquery?sq=337128161179:369db52ae3d14316b389ad25637831d1
+
